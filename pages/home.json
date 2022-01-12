@@ -1,0 +1,33 @@
+{
+    "hero": {
+        "header": "Drink healthy <br> and Natural Coffee!",
+        "subtext": "At Aziz's House of Coffee, we only brew the freshest coffee from all around the world. We also serve pastries such as cupcakes and brownies.",
+        "bg_image": "/images/bar.jpg"
+    },
+    "about": {
+        "header": "Welcome to Aziz's Coffee House.",
+        "subtext": "Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee fro all over the world. Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee fro all over the world.  Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee fro all over the world.",
+        "bg_image": "/images/bar-2.jpg",
+        "images": [
+                {"image": "/images/coffee.jpg", "caption": "Coffee"},
+                {"image": "/images/tea.jpg", "caption": "Tea"},
+                {"image": "/images/cupcake.jpg", "caption": "Pastries"}
+        ]
+    },
+    "team": {
+        "subheader": "Team",
+        "header": "Meet The Team",
+        "background_image": "/images/background-team.jpg",
+        "members": [
+            {"name": "Arthur Browner", "image": "/images/person_2.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "Customer"},
+            {"name": "Arthur Browner", "image": "/images/person_1.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "Customer"},
+            {"name": "Arthur Browner", "image": "/images/person_3.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "Customer"},
+            {"name": "Arthur Browner", "image": "/images/person_4.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "Customer"}
+        ]
+    },
+    "order": {
+        "subheader": "Order",
+        "header": "Place an Order",
+        "image": "/images/order-back-image.jpg"
+    }
+}

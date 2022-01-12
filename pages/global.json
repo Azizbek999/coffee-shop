@@ -1,0 +1,9 @@
+{
+    "title": "Aziz's House of Coffee",
+    "description": "Welcome to our house of coffee! We hope you enjoy",
+    "hours": [
+      {"day": "Mon - Fri", "time": "06:00 : 22:00"},
+      {"day": "Saturday", "time": "07:00 : 23:00"},
+      {"day": "Sunday", "time": "07:00 : 21:00"}
+    ]
+  }
